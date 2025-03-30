@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\ferit\desktop\controlpartidosdefootballproyecto\main.cpp
+	<iostream>
+
+1743299374 source:c:\users\ferit\desktop\controlpartidosdefootballproyecto\equipo.cpp
+	"Equipo.h"
+
+1743299743 c:\users\ferit\desktop\controlpartidosdefootballproyecto\equipo.h
+	<iostream>
+	<string>
+
+1743299402 source:c:\users\ferit\desktop\controlpartidosdefootballproyecto\generargoles.cpp
+	"GenerarGoles.h"
+	"Equipo.h"
+	"GenerarGoles.h"
+	<vector>
+
+1743299387 c:\users\ferit\desktop\controlpartidosdefootballproyecto\generargoles.h
+	<cstdlib>
+	<ctime>
+
+1743301816 source:c:\users\antho\onedrive\desktop\c++ ejemplos\futclases\controlpartidosdefootballproyecto\equipo.cpp
+	"Equipo.h"
+
+1743301816 c:\users\antho\onedrive\desktop\c++ ejemplos\futclases\controlpartidosdefootballproyecto\equipo.h
+	<iostream>
+	<string>
+
+1743301816 source:c:\users\antho\onedrive\desktop\c++ ejemplos\futclases\controlpartidosdefootballproyecto\generargoles.cpp
+	"GenerarGoles.h"
+	"Equipo.h"
+	"GenerarGoles.h"
+	<vector>
+
+1743301816 c:\users\antho\onedrive\desktop\c++ ejemplos\futclases\controlpartidosdefootballproyecto\generargoles.h
+	<cstdlib>
+	<ctime>
+
+1743301816 source:c:\users\antho\onedrive\desktop\c++ ejemplos\futclases\controlpartidosdefootballproyecto\main.cpp
+	"Torneo.h"
+
+1743301816 c:\users\antho\onedrive\desktop\c++ ejemplos\futclases\controlpartidosdefootballproyecto\torneo.h
+	"Equipo.h"
+	"GenerarGoles.h"
+	<vector>
+
+1743301816 source:c:\users\antho\onedrive\desktop\c++ ejemplos\futclases\controlpartidosdefootballproyecto\torneo.cpp
+	"Torneo.h"
+	<algorithm>
+	<iomanip>
+
+1743301816 source:c:\users\antho\onedrive\desktop\c++ ejemplos\futclases\controlpartidosdefootballproyecto\equipos.cpp
+	"equipos.h"
+
+1743301816 c:\users\antho\onedrive\desktop\c++ ejemplos\futclases\controlpartidosdefootballproyecto\equipos.h
+
+1743301816 source:c:\users\usuario\downloads\controlpartidosdefootballproyecto\equipo.cpp
+	"Equipo.h"
+
+1743301816 c:\users\usuario\downloads\controlpartidosdefootballproyecto\equipo.h
+	<iostream>
+	<string>
+
+1743301816 source:c:\users\usuario\downloads\controlpartidosdefootballproyecto\equipos.cpp
+	"equipos.h"
+
+1743301816 c:\users\usuario\downloads\controlpartidosdefootballproyecto\equipos.h
+
+1743301816 source:c:\users\usuario\downloads\controlpartidosdefootballproyecto\generargoles.cpp
+	"GenerarGoles.h"
+	"Equipo.h"
+	"GenerarGoles.h"
+	<vector>
+
+1743301816 c:\users\usuario\downloads\controlpartidosdefootballproyecto\generargoles.h
+	<cstdlib>
+	<ctime>
+
+1743301816 source:c:\users\usuario\downloads\controlpartidosdefootballproyecto\main.cpp
+	"Torneo.h"
+
+1743301816 c:\users\usuario\downloads\controlpartidosdefootballproyecto\torneo.h
+	"Equipo.h"
+	"GenerarGoles.h"
+	<vector>
+
+1743301816 source:c:\users\usuario\downloads\controlpartidosdefootballproyecto\torneo.cpp
+	"Torneo.h"
+	<algorithm>
+	<iomanip>
+

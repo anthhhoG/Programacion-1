@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1743318251 source:c:\users\usuario\desktop\kevin\programación 1\juegos\partidospolíticos\src\matriz.cpp
+	"matriz.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+
+1743319060 c:\users\usuario\desktop\kevin\programación 1\juegos\partidospolíticos\include\matriz.h
+	<vector>
+
+1743056416 source:c:\users\usuario\desktop\kevin\programación 1\juegos\partidospolíticos\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+	"ciclo.h"
+	"matriz.h"
+	"resultados.h"
+
+1743316660 c:\users\usuario\desktop\kevin\programación 1\juegos\partidospolíticos\include\ciclo.h
+
+1743319043 c:\users\usuario\desktop\kevin\programación 1\juegos\partidospolíticos\include\resultados.h
+	<vector>
+	<string>
+	<iostream>
+	<matriz.h>
+
+1743319043 source:c:\users\usuario\desktop\kevin\programación 1\juegos\partidospolíticos\src\ciclo.cpp
+	"ciclo.h"
+	"matriz.h"
+	"resultados.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+
+1743319043 source:c:\users\usuario\desktop\kevin\programación 1\juegos\partidospolíticos\src\resultados.cpp
+	"resultados.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+
